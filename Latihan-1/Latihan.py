@@ -1,13 +1,16 @@
+# LATIHAN 1 (celcius1)
 #Konversi Suhu Celcius Ke Fahrenheit, Reamur, dan Kelvin:
 # C = 75
 # F = (9/5) * C + 32
 # print("konversi ",C, "derajat celcius adalah ",F, "derajat fahrenheit")
 
+# LATIHAN 2 (celcius2)
 # Konversi Suhu Celcius Ke Reamur:
 # C = 60
 # R = 4/5 * C
 # print("konversi ",C, "derajat celcius adalah ",R, "derajat Reamur")
 
+# LATIHAN 3 (celcius3)
 # Konversi Suhu Celcius Ke Kelvin:
 # C = 90
 # K = C + 273
@@ -38,3 +41,5 @@ kelvin = KonversiSuhu.celsius3_to_kelvin(celsius3)
 print("konversi",celsius1, "derajat celcius adalah ",fahrenheit, "derajat fahrenheit")
 print("konversi",celsius2, "derajat celcius adalah ",reamur, "derajat Reamur")
 print("konversi",celsius3, "derajat celcius adalah ",kelvin, "derajat Kelvin")
+
+
