@@ -46,6 +46,7 @@ class Kelvin:
     def to_reamur(self):
         return (self.kelvin - 273.15) * 4/5
 
+# Pemanggilan class
 
 suhu = Fahrenheit(60)
 celcius = suhu.to_celcius()
@@ -58,10 +59,6 @@ print(f"{suhu.fahrenheit }derajat Fahrenheit = {celcius} derajat Celcius")
 
 
 
-# Pemanggilan class
-# Celcius = Celcius(50)
-# kelvin = Celcius.to_kelvin()
-# print(kelvin)
 
 
 
