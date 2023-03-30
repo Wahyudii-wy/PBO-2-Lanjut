@@ -1,7 +1,5 @@
 # PBO-2-Lanjut
-Materi dan Penuggasan Pemograman Berorientasi Objek II
+Materi dan Penuggasan Mata Kuliah Pemograman Berorientasi Objek II
 
-Nama : Wahyudi
-Nim  : 210611076
-TIF21B
+"Wahyudi 210611076 TIF21B"
 
